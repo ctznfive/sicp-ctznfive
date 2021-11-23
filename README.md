@@ -12,9 +12,9 @@ SICP is a computing textbook, published by MIT in two editions (1985, 1995) and 
 >
 > – Peter Norvig
 
-[The full text of the book can be found here.](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
+[The full original text of the book can be found here.](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
 
-[For better reading experience, you can find html version here.](http://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
+[For better reading experience, you can find a prettier edition here.](http://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
 
 [MIT/GNU Scheme](https://www.gnu.org/software/mit-scheme/)
 
@@ -25,14 +25,14 @@ Most of the solutions done here is tested with [DrRacket](https://download.racke
 
 Install [Racket](https://docs.racket-lang.org/pollen/Installation.html)
 
-Then run commands for installing rackunit and sicp packages in your terminal:
+Then run commands for installing rackunit and sicp packages:
 
 ```sh
 raco pkg install rackunit
 raco pkg install sicp
 ```
 
-## All source code from the textbook
+## Source code
 [You can find all the code from the book here.](https://mitpress.mit.edu/sites/default/files/sicp/code/index.html)
 
 ## Lectures
