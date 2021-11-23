@@ -1,1 +1,1 @@
-All of the these code is from [this site](https://mitpress.mit.edu/sites/default/files/sicp/code/index.html)
+The [following files](https://mitpress.mit.edu/sites/default/files/sicp/code/index.html) contain essentially all the Scheme code included in Structure and Interpretation of Computer Programs, 2nd edition. For each chapter, there is a file containing all of the code in that chapter. Implementations of several major systems in the book are also isolated into separate files.
